@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidad - NEXO Game</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #333; }
+    h1 { color: #01875f; }
+    h2 { margin-top: 24px; color: #202124; }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad - NEXO Game</h1>
+  <p><strong>Última actualización:</strong> Octubre 2026</p>
+
+  <h2>1. Recopilación y uso de información</h2>
+  <p>La aplicación <strong>NEXO Game</strong> no recopila, almacena, utiliza ni comparte ningún tipo de información personal, identificadores de dispositivo, ubicación ni datos de uso de sus usuarios.</p>
+
+  <h2>2. Almacenamiento local del dispositivo</h2>
+  <p>La aplicación puede utilizar el almacenamiento interno local del dispositivo únicamente para guardar el progreso del juego, puntuaciones locales y preferencias de configuración. Estos datos se quedan de forma aislada en tu dispositivo y nunca se envían a servidores externos.</p>
+
+  <h2>3. Permisos del dispositivo</h2>
+  <p><strong>NEXO Game</strong> no solicita ni requiere permisos sensibles (como acceso a cámara, contactos, ubicación precisa o micrófono) para su funcionamiento básico.</p>
+
+  <h2>4. Servicios de terceros</h2>
+  <p>La aplicación no integra redes publicitarias de terceros, herramientas de analítica externa ni SDKs que recopilen datos de los usuarios.</p>
+
+  <h2>5. Menores de edad</h2>
+  <p>Al no recopilar ningún tipo de información personal, la aplicación es segura para usuarios de todas las edades y cumple con los estándares de privacidad para menores.</p>
+
+  <h2>6. Contacto</h2>
+  <p>Si tienes preguntas sobre esta política de privacidad, puedes contactar con el desarrollador a través de la ficha de la aplicación en Google Play Store.</p>
+</body>
+</html>
